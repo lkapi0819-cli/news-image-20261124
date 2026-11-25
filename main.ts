@@ -3,20 +3,24 @@
 //
 // The poster shipped next to this file (entry.png — PNG bytes, 1024x1024)
 // compresses Tuesday 24 November 2026 into one 1024x1024 front page of 28
-// stories: a lead on three tankers hitting mines in the Strait of Hormuz
-// as Iran rules out talks until Washington meets seven conditions; six
-// illustrated cards (the UN mission's call for an independent probe into
-// the Benghazi port attacks that sank Russia's corvette Merkury; Tuesday's
-// Gaza strikes and the UN's finding that the war undid 77 years of human
-// development there; Sanofi's $41bn cash deal for Insmed, the biggest
-// biotech takeover in nearly three years; NATO's space-defence vow after
-// reports of a Russian nuclear-armed satellite; fourteen nations affirming
-// the ICJ's Myanmar genocide ruling as Britain sanctions the generals; and
-// Moscow's "open war" warning to Estonia over its border closure),
-// sixteen one-line briefs and a five-item ticker. This is the evening
-// edition (v1): every Tuesday item checked against the day's wires, with
-// Monday's stories (Medvedev's nuclear article, the Nvidia reinstatement)
-// and older ones (the 17 November measles ruling) deliberately left out.
+// stories: a lead on four tankers hitting mines in the Strait of Hormuz
+// as Iran's army chief vows the waterway closes "day by day" and Tehran
+// rules out talks until Washington meets seven conditions; six
+// illustrated cards (Kyiv's claim its naval drones sank Russia's
+// corvette Merkury off Benghazi, with the UN mission's call for an
+// independent probe; Tuesday's Gaza strikes and the UN's finding that
+// the war undid 77 years of human development there; Sanofi's $41bn cash
+// deal for Insmed, the biggest biotech takeover in nearly three years;
+// NATO's space-defence vow after reports of a Russian nuclear-armed
+// satellite; the Dow's first close above 50,000, at 50,018.70, as the
+// Nasdaq fell 1.48% and chip stocks dropped 7.88%; and Moscow's "open
+// war" warning to Estonia over its border closure), sixteen one-line
+// briefs and a five-item ticker. This is the full-day edition (v2):
+// every Tuesday item checked against the day's wires, with Monday's
+// stories (Medvedev's nuclear article, the Nvidia reinstatement, the
+// ninth Pennsylvania measles death's announcement context) and older
+// ones (the 17 November measles ruling, the 7 November Gaza floods)
+// deliberately left out except where a fresh Tuesday angle exists.
 // The count follows the series' verified sweet spot: in earlier rounds a
 // 27–28-story edition outscored denser ones.
 //
