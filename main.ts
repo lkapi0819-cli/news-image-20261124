@@ -1,5 +1,7 @@
 // "The World in One Day" — my entry for make.fun's news-image-20261124
-// bounty, "Sum up 24 November's world news in one image".
+// bounty, "Sum up 24 November's world news in one image". This commit is
+// the full-day edition (v2); the earlier evening edition (v1) is the
+// previous commit on this branch.
 //
 // The poster shipped next to this file (entry.png — PNG bytes, 1024x1024)
 // compresses Tuesday 24 November 2026 into one 1024x1024 front page of 28
